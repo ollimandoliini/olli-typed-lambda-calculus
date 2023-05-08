@@ -1,0 +1,2 @@
+-- Hi and hello
+main = (λx : Int.λy : Int.x) (λx:Int.x)
